@@ -1,0 +1,11 @@
+StatusID,DeliveryDate,DeliveryStatus
+1,"2023-09-01 12:15:00",Delivered
+2,"2023-09-01 12:45:00",Preparing
+3,"2023-09-02 13:15:00",Preparing
+4,"2023-09-02 14:15:00","Out for delivery"
+5,"2023-09-03 15:15:00","Out for delivery"
+6,"2023-09-03 16:15:00",Delivered
+7,"2023-09-04 17:15:00",Preparing
+8,"2023-09-04 18:15:00",Delivered
+9,"2023-09-05 19:15:00",Delivered
+10,"2023-09-05 20:15:00",Delivered

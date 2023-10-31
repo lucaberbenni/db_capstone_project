@@ -1,0 +1,11 @@
+MenuID,Starters,Cuisines,Courses,Drinks,Desserts,OrderID,BookingID,StaffID
+1,"Garlic Butter Shrimp",Italian,Appetizer,"White Wine",Tiramisu,1,1,1
+2,"Spring Rolls",Chinese,Appetizer,"Green Tea","Fruit Tart",2,2,2
+3,"Caprese Salad",Italian,Salad,"Iced Tea",Cheesecake,3,3,3
+4,"Chicken Wings",American,Appetizer,Soda,"Chocolate Cake",4,4,4
+5,"Tomato Soup",French,Soup,"Red Wine","Creme Brulee",5,5,5
+6,"Sushi Rolls",Japanese,Appetizer,Sake,"Mochi Ice Cream",6,6,6
+7,"Hummus with Pita",Lebanese,Appetizer,"Mint Tea",Baklava,7,7,7
+8,"Tandoori Chicken",Indian,"Main Course",Lassi,"Gulab Jamun",8,8,8
+9,"Greek Salad",Greek,Salad,Ouzo,Baklava,9,9,9
+10,"Steak au Poivre",French,"Main Course","Red Wine","Creme Brulee",10,10,10
